@@ -132,4 +132,3 @@ Fichier `.env` :
 <img width="1366" height="728" alt="localhost_3000 - Google Chrome 08_01_2026 13_45_12" src="https://github.com/user-attachments/assets/2b5c0c6f-2976-4f34-85bd-f6514d28c703" />
 <img width="1366" height="728" alt="localhost_3000 - Google Chrome 08_01_2026 13_47_45" src="https://github.com/user-attachments/assets/35b2b2e7-cf58-430c-8d37-12e1425b5e42" />
 <img width="1366" height="728" alt="localhost_3000 - Google Chrome 08_01_2026 13_47_36"<img width="1366" height="728" alt="API Node js - Google Chrome 08_01_2026 13_52_14" src="https://github.com/user-attachments/assets/e047ac3d-0ebf-42d9-9ebb-32884e2edf8c" />
- src="https://github.com/user-attachments/assets/182258f0-cb12-4f73-be82-eb37408b5881" />
